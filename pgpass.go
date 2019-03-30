@@ -1,3 +1,4 @@
+// Package pgpassfile is a parser PostgreSQL .pgpass files.
 package pgpassfile
 
 import (
